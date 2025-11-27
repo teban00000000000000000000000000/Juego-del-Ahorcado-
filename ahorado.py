@@ -1,5 +1,5 @@
 """
-Hangman game - Assignment deliverable
+Ahorcado game - Assignment deliverable
 Implements:
 - Use of conditionals and loops
 - Repetitive structures (while, for)
