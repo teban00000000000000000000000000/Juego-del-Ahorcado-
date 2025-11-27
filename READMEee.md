@@ -6,10 +6,6 @@
 - `Informe_Desarrollo_Software.pdf` : Documento con instrucciones, entregables y guion para videos.
 - `README.md` : Este archivo.
 
-## Requisitos y cómo ejecutar
-Se necesita Python 3.6+.
-Para ejecutar: `python3 hangman.py`
-
 ## Entregables solicitados
 - Link del repositorio: (pega aquí la URL de tu repositorio en GitHub)
 - Diagramas de flujo: `diagram_flow.png`
